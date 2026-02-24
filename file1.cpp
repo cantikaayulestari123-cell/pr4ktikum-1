@@ -8,3 +8,6 @@ int main(){
     cout << "ini string" << endl;
     cout << 123 << endl;
 }
+int main() { //mulai
+    int p, l, luas; // deklarasi
+}
