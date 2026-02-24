@@ -2,5 +2,6 @@
 using namespace std;
 
 int main(){
-    int u
+    int umur = 15;
+    umur = 20;
 }
